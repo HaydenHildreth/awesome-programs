@@ -12,3 +12,7 @@
 * [RustDesk](https://rustdesk.com/)
 * [Immich](https://immich.app/)
 * [Google Photos](https://photos.google.com/)
+* [Calibre](https://calibre-ebook.com/)
+* [Plex](https://www.plex.tv/)
+* [Jellyfin](https://jellyfin.org/)
+* [Apollo](https://github.com/ClassicOldSong/Apollo)
